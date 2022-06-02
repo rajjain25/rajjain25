@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @rajjain25
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python....
-- 💞️ I’m looking to collaborate on ...
-<!---
-rajjain25/rajjain25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A final year engineering student specialized in electrical engineering from Pandit Deendayal Energy University. As an upcoming electrical engineer with passion for computing, I strive to find the fusion between both the fields. 
+- My hobbies are listening to music, playing and watching cricket, travelling new places. I am a highly motivated individual who believes in continuous learning and is up for challenging opportunities
