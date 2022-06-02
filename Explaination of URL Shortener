@@ -1,0 +1,20 @@
+# Firstly, install Pyshorteners module which is Python library to wrap and consume the most used URL shorteners APIs.
+
+import pyshorteners
+
+#Secondly, we take input from the user at this point, we could have done the inputting part later in our code, but that would let us change the basic structure of the code, which we are going to change for every URL shortener’s APIs.
+
+long_url = input("Enter the URL to shorten: ")
+
+#Thirdly, we initialize the pyshortener library’s class object to start shortening our URLs.
+
+#TinyURL shortener service
+type_tiny = pyshorteners.Shortener()
+
+#Fourthly, you are required to pass the name along with the location of the PDF if it’s not in the same directory as the python script.
+
+short_url = type_tiny.tinyurl.short(long_url)
+ 
+print("The Shortened URL is: " + short_url)
+
+#Finally in the output, we get the shortened URL and the TinyURL is because the URL shortener package – Pyshortener uses Tinyurl API by Default.
